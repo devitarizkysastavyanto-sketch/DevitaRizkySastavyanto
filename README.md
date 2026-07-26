@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://link-gambar-pilihan-kamu.jpg" alt="Banner Profil" width="100%" />
+  <img src="<img width="1600" height="1163" alt="WhatsApp Image 2026-07-26 at 20 20 16" src="https://github.com/user-attachments/assets/0bed0abf-6028-48b3-8af5-f4115a0e3393" />
+"100%" />
 </div>
 
 <br>
