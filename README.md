@@ -4,34 +4,55 @@
 </div>
 
 <br>
+<p align="center">
+  <i>"Lakukan apa yang kau mau sekarang<br>
+  Saat hatimu bergerak, jangan kau larang<br>
+  Hidup ini tak ada artinya<br>
+  Maka kau bebas mengarang maknanya seorang"</i><br>
+  — <b>Hindia - Berdansalah Karir Ini Tak Ada Artinya</b> 🎵
+</p>
 
-I'm an **11th-grade student at SMK Telkom Sidoarjo**. I have a deep curiosity about the software development world and am actively working toward becoming a **Full-Stack Developer**.
+<br>
+
+### 👨‍💻 About Me
+
+I am an 11th-grade student majoring in **Telecommunication Access Network Engineering (TJAT)** at **SMK Telkom Sidoarjo**. I am currently focused on building a career as a **Full-Stack Web Developer** while actively exploring the fields of **Machine Learning** and **Data Science**.
+
+Beyond coding, I am an active organizational member of **Dewan Ambalan Sasongko - Lukitaningsih**. Through this organization, I have gained valuable experience in **time management, discipline, and leadership**.
 
 ---
 
-### 📌 About Me
- 🏫 Student at **SMK Telkom Sidoarjo** (11th Grade)
- 🎯 **Goal:** Becoming a skilled Full-Stack Developer
- 💡 **Interests:** Software Engineering, Web Development & System Architecture
- 🌱 Currently learning & practicing frontend and backend technologies
+### 🚀 Current Focus & Activities
+
+- 🌱 **I’m currently learning:** Machine Learning, Database Management & Full-Stack Web Development
+- 🎨 **I also design:** UI/UX layouts & application prototypes using Figma
+- 💬 **Ask me about:** Anything you want to know!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Styling**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <b>Languages & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-**Backend**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools**  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <b>Design & Tools</b><br>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username-kamu)
+<p align="center">
+  <a href="https://www.linkedin.com/in/devita-rizkysastavyanto-4b8a90424/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sunshinee.flower?igsh=bTZwNjlzazZjY2Ix"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/username-kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
