@@ -6,5 +6,4 @@
 <br>
 
 ## 🛠️ Tech Stack & Tools
-
-| **Design/Lainnya** | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
+| **Design/Lainnya**  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
