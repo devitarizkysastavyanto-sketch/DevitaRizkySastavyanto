@@ -10,10 +10,10 @@ I'm an **11th-grade student at SMK Telkom Sidoarjo**. I have a deep curiosity ab
 ---
 
 ### 📌 About Me
-- 🏫 Student at **SMK Telkom Sidoarjo** (11th Grade)
-- 🎯 **Goal:** Becoming a skilled Full-Stack Developer
-- 💡 **Interests:** Software Engineering, Web Development & System Architecture
-- 🌱 Currently learning & practicing frontend and backend technologies
+ 🏫 Student at **SMK Telkom Sidoarjo** (11th Grade)
+ 🎯 **Goal:** Becoming a skilled Full-Stack Developer
+ 💡 **Interests:** Software Engineering, Web Development & System Architecture
+ 🌱 Currently learning & practicing frontend and backend technologies
 
 ---
 
